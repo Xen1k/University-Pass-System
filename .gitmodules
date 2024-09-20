@@ -1,0 +1,3 @@
+[submodule "UPS-Hosted-Server"]
+	path = UPS-Hosted-Server
+	url = https://github.com/Xen1k/UPS-Hosted-Server
