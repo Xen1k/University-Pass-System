@@ -1,3 +1,9 @@
 [submodule "UPS-Hosted-Server"]
 	path = UPS-Hosted-Server
 	url = https://github.com/Xen1k/UPS-Hosted-Server
+[submodule "UPS-Embedded-Server"]
+	path = UPS-Embedded-Server
+	url = https://github.com/Xen1k/UPS-Embedded-Server.git
+[submodule "UPS-ESP32-Camera-API"]
+	path = UPS-ESP32-Camera-API
+	url = https://github.com/Xen1k/UPS-ESP32-Camera-API
